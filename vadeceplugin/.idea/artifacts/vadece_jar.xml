@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vadece:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/vadece_jar</output-path>
+    <root id="archive" name="vadece.jar">
+      <element id="module-output" name="vadece" />
+    </root>
+  </artifact>
+</component>
